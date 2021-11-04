@@ -21,7 +21,8 @@
 
 .container-fluid{
     background-size: cover;
-    height: 700px;
+    height: 100vh;
+    width: 100vh;
     background-attachment: fixed;
     position: relative;
     display: flex;
